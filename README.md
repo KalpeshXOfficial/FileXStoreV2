@@ -3,7 +3,7 @@
 </h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=3000&center=true&vCenter=true&width=450&height=70&lines=An+Advance+File+Sharing+Bot+!!!;Devloped+by+Coding+Ninjas...;Don't+Forget+to+Start+This+Repo...!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&pause=3000&center=true&vCenter=true&width=450&height=70&lines=An+Advance+File+Sharing+Bot+!!!;Devloped+by+Coding+Ninjas...;Don't+Forget+to+Star+This+Repo...!)](https://git.io/typing-svg)
 
 # ʙʀᴀɴᴄʜ
 * <b>𝟸 ғsᴜʙ - [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/Codeflix-Bots/FileStore)</b>
